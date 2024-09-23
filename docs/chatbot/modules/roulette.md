@@ -1,6 +1,6 @@
 ---
 id: roulette
-sidebar_label: "Roulette"
+sidebar_label: "Gamble"
 description: "Boost viewer engagement with StreamElements Roulette. Learn to set up and use this exciting chat game for wagering and winning points on Twitch streams."
 keywords:
 - StreamElements roulette
